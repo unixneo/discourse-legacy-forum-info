@@ -1,9 +1,9 @@
 # name: discourse-legacy-forum-info
 # about: plugin to show migrated legacy thread id in topics
-# version: 0.0.6
+# version: 0.0.7
 # date: 4 December 2020
 # authors: Neo, spirobel
-# url: https://github.com/unixneo/basic-discourse-plugin
+# url: https://github.com/unixneo/discourse-legacy-forum-info
 
 enabled_site_setting :discourse_legacy_forum_info_enabled
 
