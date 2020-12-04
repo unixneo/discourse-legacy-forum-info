@@ -1,0 +1,8 @@
+en:
+  site_settings:
+    discourse_legacy_forum_info_enabled: "Enable legacy thread info plugin?"
+    min_trust_level: "Minimum trust level for legacy thread info."
+    enable_for_guests: "Enable for unregistered users?"
+    enable_hide_canonical: "Enable hiding canonical link element (experimental)?"
+    enable_hide_canonical_theme: "Enable hiding canonical link element in theme (experimental)?"
+    legacy_found: "Legacy Found?"

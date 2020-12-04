@@ -1,0 +1,20 @@
+plugins:
+  discourse_legacy_forum_info_enabled:
+    default: true
+    client: true
+  min_trust_level:
+    default: 4
+    client: 4
+  enable_for_guests:
+    default: true
+    client: true
+  enable_hide_canonical:
+    default: false
+    client: true
+  enable_hide_canonical_theme:
+    default: true
+    client: true
+  legacy_found:
+    default: false
+    client: true
+    hidden: true
