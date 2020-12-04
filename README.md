@@ -1,4 +1,4 @@
-# discourse-legacy-forum-ino
+# discourse-legacy-forum-info
 
 ### version 0.0.6
 
